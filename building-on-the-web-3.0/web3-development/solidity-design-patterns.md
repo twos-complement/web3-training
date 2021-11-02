@@ -31,9 +31,17 @@ Sometimes in blockchain-based applications, activities might need to be authoris
 
 #### Off-Chain Secret Enabled Dynamic Authorisation
 
+In blockchain-based applications, the party(ies) that can authorise a given activity may be unknown when the corresponding smart contract is deployed or the corresponding transaction is submitted to the blockchain.
+
 {% embed url="https://research.csiro.au/blockchainpatterns/general-patterns/security-patterns/off-chain-secret-enabled-dynamic-authorization" %}
 
 #### Ownership & Role Based Access Control
+
+A deployed contract can have dedicated role-based operation & access, like in any traditional system. The roles allocation and administration can be done by enforcing ownership & role based access control rules.
+
+{% hint style="info" %}
+The standard implementation for this pattern is available in the OpenZeppelin [library](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/access?ref=hackernoon.com).
+{% endhint %}
 
 {% embed url="https://hiddentao.com/archives/2020/03/21/advanced-role-based-access-control-in-solidity" %}
 
