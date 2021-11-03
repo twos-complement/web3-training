@@ -37,7 +37,13 @@ Gain access to data stored outside of the blockchain.
 
 {% embed url="https://ethereum.org/en/developers/docs/oracles" %}
 
-###
+#### Randomness
+
+Randomness in computer systems and especially in Ethereum is notoriously difficult to achieve. While it is hard or even impossible to generate a truly random number via software, the need for randomness in Ethereum is high
+
+{% embed url="https://fravoll.github.io/solidity-patterns/randomness.html" %}
+
+{% embed url="https://hackernoon.com/how-to-generate-random-numbers-in-solidity-lh7rj39s9" %}
 
 ### Authorization Patterns
 
@@ -68,22 +74,14 @@ The standard implementation for this pattern is available in the OpenZeppelin [l
 {% endhint %}
 
 {% embed url="https://hiddentao.com/archives/2020/03/21/advanced-role-based-access-control-in-solidity" %}
-
-#### Randomness
-
-Randomness in computer systems and especially in Ethereum is notoriously difficult to achieve. While it is hard or even impossible to generate a truly random number via software, the need for randomness in Ethereum is high
-
-{% embed url="https://fravoll.github.io/solidity-patterns/randomness.html" %}
-
-{% embed url="https://hackernoon.com/how-to-generate-random-numbers-in-solidity-lh7rj39s9" %}
-
-#### Patterns for interacting with the outside world
-
-{% embed url="https://research.csiro.au/blockchainpatterns/general-patterns/interacting-with-the-external-world" %}
-
 \
 
+{% endembed %}
 
 ### ⭐️ Extras&#x20;
 
-{% embed url="https://fravoll.github.io/solidity-patterns" %}
+#### Interact with the outside world patterns
+
+A set of patterns for interacting with offchain data.
+
+{% embed url="https://research.csiro.au/blockchainpatterns/general-patterns/interacting-with-the-external-world" %}
