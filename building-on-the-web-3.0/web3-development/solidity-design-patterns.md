@@ -15,6 +15,30 @@ These are some of the characteristics we should take in count when coding a smar
 * Returning variable-lengh arrays is not allowed.
 * Keys for maps are not stored.
 
+### Control Patterns
+
+#### Guard Check
+
+The desired behavior of a smart contract would be to check for all required circumstances and only proceed if everything is as intended. In case of any shortcomings, the contract is expected to revert all changes that have been made to its state.
+
+{% embed url="https://fravoll.github.io/solidity-patterns/guard_check.html" %}
+
+#### State Machine
+
+Enable a contract to go through different stages with different corresponding functionality exposed.
+
+{% embed url="https://fravoll.github.io/solidity-patterns/state_machine.html" %}
+
+#### Oracle
+
+Gain access to data stored outside of the blockchain.
+
+{% embed url="https://fravoll.github.io/solidity-patterns/oracle.html" %}
+
+{% embed url="https://ethereum.org/en/developers/docs/oracles" %}
+
+###
+
 ### Authorization Patterns
 
 #### Access Restriction
@@ -44,6 +68,18 @@ The standard implementation for this pattern is available in the OpenZeppelin [l
 {% endhint %}
 
 {% embed url="https://hiddentao.com/archives/2020/03/21/advanced-role-based-access-control-in-solidity" %}
+
+#### Randomness
+
+Randomness in computer systems and especially in Ethereum is notoriously difficult to achieve. While it is hard or even impossible to generate a truly random number via software, the need for randomness in Ethereum is high
+
+{% embed url="https://fravoll.github.io/solidity-patterns/randomness.html" %}
+
+{% embed url="https://hackernoon.com/how-to-generate-random-numbers-in-solidity-lh7rj39s9" %}
+
+#### Patterns for interacting with the outside world
+
+{% embed url="https://research.csiro.au/blockchainpatterns/general-patterns/interacting-with-the-external-world" %}
 
 \
 
