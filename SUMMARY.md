@@ -18,6 +18,7 @@
     * [Solidity](building-on-the-web-3.0/web3-development/solidity.md)
     * [Solidity Design Patterns](building-on-the-web-3.0/web3-development/solidity-design-patterns.md)
     * [Solidity Best Practices](building-on-the-web-3.0/web3-development/solidity-best-practices.md)
+    * [Scaling](building-on-the-web-3.0/web3-development/scaling.md)
     * [Dapp Development](building-on-the-web-3.0/web3-development/dapp-development.md)
   * [👨🎨 Web3 Design](building-on-the-web-3.0/web3-design.md)
   * [🏢 Building a DAO](building-on-the-web-3.0/building-a-dao.md)
