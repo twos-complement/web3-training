@@ -2,7 +2,7 @@
 description: Learn how to write robust smart contracts by using design patterns.
 ---
 
-# Solidity Design Patterns
+# Blockchain Design Patterns
 
 Programming robust smart contracts in Solidity is a sophisticated task beause the special features of the language and how to smart contracts work.
 
@@ -45,7 +45,7 @@ Randomness in computer systems and especially in Ethereum is notoriously difficu
 
 {% embed url="https://hackernoon.com/how-to-generate-random-numbers-in-solidity-lh7rj39s9" %}
 
-### Authorization Patterns
+### Security Patterns
 
 #### Access Restriction
 
@@ -77,6 +77,35 @@ The standard implementation for this pattern is available in the OpenZeppelin [l
 \
 
 {% endembed %}
+
+### **Upgradeability Patterns**
+
+#### Proxy Delegate
+
+{% embed url="https://fravoll.github.io/solidity-patterns/proxy_delegate.html" %}
+
+#### Eternal Storage
+
+{% embed url="https://fravoll.github.io/solidity-patterns/eternal_storage.html" %}
+
+### Optimization Patterns
+
+#### String Equality Comparison
+
+{% embed url="https://fravoll.github.io/solidity-patterns/string_equality_comparison.html" %}
+
+#### Tight Variable Packing
+
+{% embed url="https://fravoll.github.io/solidity-patterns/tight_variable_packing.html" %}
+
+#### Memory Array Building
+
+{% embed url="https://fravoll.github.io/solidity-patterns/memory_array_building.html" %}
+
+
+
+\
+
 
 ### ⭐️ Extras&#x20;
 

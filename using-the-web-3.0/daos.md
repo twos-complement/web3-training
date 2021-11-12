@@ -7,6 +7,12 @@ description: Learn about descentralized organizations and why they are important
 ### What are DAOs?
 
 {% embed url="https://ethereum.org/en/dao" %}
+D
+{% endembed %}
+
+### DAO Landscape
+
+{% embed url="https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw" %}
 
 ### The Rise of Micro-Economies
 
