@@ -10,7 +10,7 @@
 * [✨ Using the Web 3.0](using-the-web-3.0/README.md)
   * [📈 DeFi](using-the-web-3.0/defi.md)
   * [🎨 NFTs](using-the-web-3.0/nfts.md)
-  * [🎮 Play-To-Earn](using-the-web-3.0/play-to-earn.md)
+  * [🎮 Metaverse](using-the-web-3.0/metaverse.md)
   * [🌐 DAOs](using-the-web-3.0/daos.md)
 * [🏗 Building on the Web 3.0](building-on-the-web-3.0/README.md)
   * [👩💻 Web3 Development](building-on-the-web-3.0/web3-development/README.md)
