@@ -29,3 +29,5 @@ D
 ### ⭐️ Extras
 
 {% embed url="https://kinjal.mirror.xyz/eD3-Sgv2h50j-kwjHQCOnwqMKqSLTfnrqrtNypU-P5k" %}
+
+{% embed url="https://thedaoist.mirror.xyz/FfzZ8NnWdb5ygJu13mLi9PdWoGqaoKSm8mJoRIi3GJI" %}
