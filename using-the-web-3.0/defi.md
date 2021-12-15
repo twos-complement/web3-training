@@ -4,9 +4,19 @@ description: Learn about Descentralized Finance and how to take advantage of it
 
 # 📈 DeFi
 
+
+
 ### What is DeFi? by [WhiteboardCrypto](https://www.youtube.com/channel/UCsYYksPHiGqXHPoHI-fm5sg)
 
 {% embed url="https://youtu.be/17QRFlml4pA" %}
+
+{% hint style="info" %}
+**The Three Pillars of DeFi are:**
+
+* Stable coins
+* Automated market makers
+* Descentralized lending platforms
+{% endhint %}
 
 ### What is a Stablecoin? Most Comprehensive Video Guide by [BlockGeeks](https://www.youtube.com/channel/UCd8CDrm6rvwBZc6g7BYAkfQ)
 

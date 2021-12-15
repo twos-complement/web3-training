@@ -1,3 +1,7 @@
+---
+description: Learn how Ethereum newtork actually works.
+---
+
 # Ethereum
 
 ### Intro to Ethereum

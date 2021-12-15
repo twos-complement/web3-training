@@ -20,13 +20,15 @@ description: Learn more about web3 development
 
 {% embed url="https://docs.ethers.io/v5" %}
 
-#### Web3.js vs. Ethers.js
+#### Ethers.js Cheat Sheet by[ @hideckies](https://twitter.com/hideckies)
+
+{% embed url="https://dev.to/hideckies/ethers-js-cheat-sheet-1h5j" %}
+
+#### Web3.js vs. Ethers.js by [@infura\_io](https://twitter.com/infura\_io)
 
 {% embed url="https://blog.infura.io/ethereum-javascript-libraries-web3-js-vs-ethers-js-part-i" %}
 
 {% embed url="https://bestofreactjs.com/repo/0xMaxim-Web3-js-vs-Ethers-js-react-react-integration" %}
-
-
 
 ### Projects
 

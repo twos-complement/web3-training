@@ -9,3 +9,10 @@ coverY: -733.5779345734445
 In this section you will learn to navigate the Web 3.0 so you can take benefit from it. You will explore cocepts such as DeFi (descentralized finances), NFTs (non-fungible tokens), Play-to-earn (blockchain based video games) and DAOs (descentralized organizations).
 
 Prepare your wallet and get ready to be a Web 3.0 super-user!
+
+After completing this section you will be able to:
+
+* Understand what DeFi is and how it works.&#x20;
+* Recognize the importance of NFTs their potential beyond digital art.
+* Be aware of the Metaverse and the opportunities it may provide.
+* Understand the concepto of a DAO and what's the difference between traditional organizations.
