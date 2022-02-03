@@ -1,25 +1,8 @@
 # Table of contents
 
-* [🚀 Web 3 Training](README.md)
-* [💡 Understanding the Web 3.0](understanding-the-web-3.0/README.md)
-  * [🤔 Why Web3?](understanding-the-web-3.0/why-web3.md)
-  * [⛓ What is Blockchain?](understanding-the-web-3.0/what-is-blockchain.md)
-  * [🪙 What are tokens?](understanding-the-web-3.0/what-are-tokens.md)
-  * [🔑 How to set up a wallet?](understanding-the-web-3.0/how-to-set-up-a-wallet.md)
-  * [📊 Dapps](understanding-the-web-3.0/dapps.md)
-* [✨ Using the Web 3.0](using-the-web-3.0/README.md)
-  * [📈 DeFi](using-the-web-3.0/defi.md)
-  * [🎨 NFTs](using-the-web-3.0/nfts.md)
-  * [🎮 Metaverse](using-the-web-3.0/play-to-earn.md)
-  * [🌐 DAOs](using-the-web-3.0/daos.md)
-* [🏗 Building on the Web 3.0](building-on-the-web-3.0/README.md)
-  * [👩💻 Web3 Development](building-on-the-web-3.0/web3-development/README.md)
-    * [Ethereum](building-on-the-web-3.0/web3-development/ethereum.md)
-    * [Solidity](building-on-the-web-3.0/web3-development/solidity.md)
-    * [Dapp Development](building-on-the-web-3.0/web3-development/dapp-development.md)
-    * [Blockchain Design Patterns](building-on-the-web-3.0/web3-development/blockchain-design-patterns.md)
-    * [Solidity Best Practices](building-on-the-web-3.0/web3-development/solidity-best-practices.md)
-    * [Scaling](building-on-the-web-3.0/web3-development/scaling.md)
-    * [NFTs](building-on-the-web-3.0/web3-development/nfts.md)
-  * [👨🎨 Web3 Design](building-on-the-web-3.0/web3-design.md)
-  * [🏢 Building a DAO](building-on-the-web-3.0/building-a-dao.md)
+* [Welcome to IndieDAO](README.md)
+* [New Members Start Here!](new-members-start-here.md)
+
+## Next steps
+
+* [What's next at IndieDAO?](next-steps/whats-next-at-indiedao.md)
